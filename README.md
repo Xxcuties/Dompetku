@@ -50,7 +50,7 @@ DompetKu adalah web app pencatat keuangan yang dibuat buat kamu yang punya banya
 
 ### Langkah 4 — Hubungkan ke DompetKu
 
-1. Buka DompetKu di browser: **[🌸 Klik di sini untuk buka DompetKu](https://xxcuties.github.io/Dompetku/dompetku.html)**
+1. Buka DompetKu.html 
 2. Masukkan PIN 4 digit (pertama kali = set PIN baru~)
 3. Akan muncul halaman setup → **paste link Apps Script** tadi ke kolom yang tersedia
 4. Klik **Mulai Pakai DompetKu →**
